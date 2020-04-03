@@ -9,7 +9,7 @@ row_index = 0
   element_index = 0 
   lowest_temp = 100
     while element_index < src[row_index].count
-    binding.pry
+  # binding.pry
       if src[row_index][element_index] < lowest_temp
       lowest_temp = src[row_index][element_index]
       end
