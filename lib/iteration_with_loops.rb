@@ -18,5 +18,6 @@ row_index = 0
   row_index += 1
   min_values
 end
+end
 
 
