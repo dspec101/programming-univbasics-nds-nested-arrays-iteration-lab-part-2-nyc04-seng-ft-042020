@@ -7,7 +7,7 @@ min_values = []
 row_index = 0
   while row_index < src.count
   element_index = 0 
-  lowest_temp = ""
+  lowest_temp = 0
     while element_index < src[row_index].count
       if src[row_index][element_index] < lowest_temp
       lowest_temp = src[row_index][element_index]
