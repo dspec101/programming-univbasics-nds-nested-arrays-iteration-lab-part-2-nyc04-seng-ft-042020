@@ -15,10 +15,10 @@ row_index = 0
       end
     element_index += 1
     end
-
+  min_values << lowest_temp
   row_index += 1
-  min_values
 end
+ min_values
 end
 
 
